@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/Lithirabudvin/Zypher-Hardware.git
+[submodule "mobileApp"]
+	path = mobileApp
+	url = https://github.com/Lithirabudvin/zypher-mobileApp.git
